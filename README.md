@@ -188,7 +188,7 @@ short-range noise?
 
 ## CREDITS AND REFERENCES
 
-Copyright (c) 2021 R. Wade Schuette, all rights reserved.
+Copyright (c) 2021 R. Wade Schuette, see license in main branch
 wade.schuette@gmail.com 
 
 YouTube video is scheduled to be added in February, 2021
